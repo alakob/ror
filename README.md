@@ -1,3 +1,3 @@
 # Friends List App
 
-ROR
+ROR example App
